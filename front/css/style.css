@@ -68,6 +68,10 @@
       gap: 0.6rem;
     }
 
+.logo-text-main h1 {
+    font-size: 1.1rem;
+}
+
     .logo-circle {
       width: 42px;
       height: 42px;
