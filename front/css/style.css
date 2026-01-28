@@ -784,3 +784,6 @@
         justify-content: center;
     }
 
+.container.google_form_global {
+    text-align: center;
+}
